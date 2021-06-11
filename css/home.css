@@ -1,0 +1,43 @@
+html,
+body {
+    background-color: #111111;
+    color: #ffffffaf
+}
+
+h1{
+    text-align: center;
+}
+
+.badges{
+    text-align: center;
+}
+
+.avatar{
+
+    text-align: center;
+}
+.avatar img{
+    background-color: #423E47;
+    border: 2px solid #ffffffaf;    
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.container {
+    max-width: 500px;
+}
+
+a,
+a:visited,
+a:hover,
+a:active,
+a:link {
+    color: #ffffffaf;
+    text-decoration: underline dotted;
+}
+
+li{
+    padding-top: 15px;
+}
